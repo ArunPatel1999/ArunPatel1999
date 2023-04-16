@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about tech [here](https://github.com/ArunPatel1999/ArunPatel1999/issues)
-- [arun-patel.github.io](https://arunpatel1999.github.io/arun-patel.github.io/)
+- 🌐 Portfolio :- [arun-patel.github.io](https://arunpatel1999.github.io/arun-patel.github.io/)
 - ⚡ Fun fact: 😴😴😴😴😴
 ### Connect with me:
 
@@ -14,12 +14,12 @@
 <br />
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="70px" src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png" />
+<img align="left" alt="Java" width="70px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Hibernate" width="70px" src="https://iconape.com/wp-content/files/qy/67154/png/hibernate-1.png" />
-<img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" />
-<img align="left" alt="ProjectReacter" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseJePmX3RyWPJXAHoQMKHg_VENs2fNAcTxQ&usqp=CAU" />
+<img align="left" alt="Spring" width="70px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+<img align="left" alt="ProjectReacter" width="70px" src="https://arunpatel1999.github.io/arun-patel.github.io/assets/images/skills/reactive_Java.png" />
 
-<img align="left" alt="Angular" width="70px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+<img align="left" alt="Angular" width="70px" src="https://img.icons8.com/color/48/null/angularjs.png" />
 <img align="left" alt="MySql" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="MongoDB" width="70px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" />
 
